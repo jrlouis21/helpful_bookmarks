@@ -9,11 +9,11 @@ This page consists of a high level set of bookmarks to the original source data 
 | ----- | ---- | ---- | ---- |
 | Websites every programmer should visit | https://github.com/sdmg15/Best-websites-a-programmer-should-visit#when-you-get-stuck | A compiled list of helpful sites for developers | :heavy_multiplication_x:
 | Github Cheat Sheet | https://github.com/tiimgreen/github-cheat-sheet | A collection of Git/Github tips and tricks to make development easier | :heavy_check_mark:
-| The Art of the Command Line | https://github.com/jlevy/the-art-of-command-line | Command line hints to help navigate a terminal | :heavy_multiplication_x:
-| Github Gist | https://gist.github.com | Collect code snippets in Github without creating a full repository | :heavy_multiplication_x:
-| Explain Shell | https://explainshell.com | Enter a CLI command and it returns a breakdown explaination of how/why the command works | :heavy_multiplication_x:
-| Public APIs | https://github.com/public-apis/public-apis#entertainment | A massive list of publicly available APIs to use for consumption | :heavy_multiplication_x:
-| Gitignore | https://www.toptal.com/developers/gitignore | Gitignore generate for popular programming languages | :heavy_multiplication_x:
+| The Art of the Command Line | https://github.com/jlevy/the-art-of-command-line | Command line hints to help navigate a terminal | :heavy_check_mark:
+| Github Gist | https://gist.github.com | Collect code snippets in Github without creating a full repository | :heavy_check_mark:
+| Explain Shell | https://explainshell.com | Enter a CLI command and it returns a breakdown explaination of how/why the command works | :heavy_check_mark:
+| Public APIs | https://github.com/public-apis/public-apis#entertainment | A massive list of publicly available APIs to use for consumption | :heavy_check_mark:
+| Gitignore | https://www.toptal.com/developers/gitignore | Gitignore generate for popular programming languages | :heavy_check_mark:
 | Docker Cheat Sheet | https://vishnuch.tech/docker-cheatsheet | Docker Cheat Sheet | :heavy_multiplication_x:
 | Oh My Zsh | https://ohmyz.sh/ | Open source framework for managing Zsh configuration | :heavy_multiplication_x:
 
