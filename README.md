@@ -37,6 +37,7 @@ This page consists of a high level set of bookmarks to the original source data 
 | Bookmark | URL | About |
 | ----- | ---- | ---- |
 | Branition | https://branition.com/colors | Predefined color palettes to use of branding/logos
+| JS Bin | https://jsbin.com/ | Easy Browser based Javascript editor to test quick snippets
 
 
 ## Other Programming Languages
