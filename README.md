@@ -15,6 +15,7 @@ This page consists of a high level set of bookmarks to the original source data 
 | Public APIs | https://github.com/public-apis/public-apis#entertainment | A massive list of publicly available APIs to use for consumption
 | Gitignore | https://www.toptal.com/developers/gitignore | Gitignore generate for popular programming languages
 | Docker Cheat Sheet | https://vishnuch.tech/docker-cheatsheet | Docker Cheat Sheet
+| Oh My Zsh | https://ohmyz.sh/ | Open source framework for managing Zsh configuration
 
 
 ## Python
